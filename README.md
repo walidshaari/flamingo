@@ -27,13 +27,12 @@ brew install fluxcd/tap/flux
 # install ArgoCD CLI
 brew install argocd
 
-```shell
+```
+
 Create a fresh KIND cluster
 
 ```shell
-
 kind create cluster
-
 ```
 
 Install **Flux**
